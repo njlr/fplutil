@@ -39,3 +39,8 @@ libfplutil/unit_tests/test*/obj/
 libfplutil/unit_tests/test*/proguard-project.txt
 libfplutil/unit_tests/test*/project.properties
 libs/
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
